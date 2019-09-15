@@ -58,3 +58,4 @@ def startScript(characterPosition):     # Function that prints instructions on h
 
 
 # Call startProgram()
+startScript()
